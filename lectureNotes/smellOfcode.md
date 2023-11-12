@@ -44,3 +44,5 @@ def hesapla_cevre(uzunluk, genislik=None, kenar=None):
         raise ValueError("Geçersiz argümanlar")
 
 ```
+
+* Tek Sorumluluk İlkesi
