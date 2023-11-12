@@ -85,3 +85,26 @@ class VeriIslemleri:
 
 
 ```
+
+
+* Soyutlama
+
+```python
+
+from abc import ABC, abstractmethod
+
+class Araba(ABC):
+    @abstractmethod
+    def hareket_et(self):
+        pass
+
+class Tesla(Araba):
+    def hareket_et(self):
+        print("Elektrik motoruyla hareket ediliyor.")
+
+class Mercedes(Araba):
+    def hareket_et(self):
+        print("Benzin motoruyla hareket ediliyor.")
+
+
+```
