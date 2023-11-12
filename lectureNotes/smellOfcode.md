@@ -22,3 +22,5 @@ def hesapla_kare_cevre(kenar):
     cevre = 4 * kenar
     return cevre
 ```
+
+DRY prensibine uygun olarak, bu tekrarı kaldıralım ve ortak bir fonksiyon kullanalım: 
