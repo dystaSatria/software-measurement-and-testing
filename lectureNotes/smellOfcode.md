@@ -1,0 +1,4 @@
+# Smell of Code
+
+
+* 
