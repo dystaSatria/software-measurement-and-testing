@@ -69,20 +69,19 @@ Değiştirilecek kullanalım:
 
 
 ```python
-def hesapla_alan(uzunluk, genislik=None, kenar=None):
-    if kenar is not None:
-        return kenar * kenar  # kare alanı
-    elif uzunluk is not None and genislik is not None:
-        return uzunluk * genislik  # dikdörtgen alanı
-    else:
-        raise ValueError("Geçersiz argümanlar")
+class VeritabaniBaglantisi:
+    def baglan(self):
+        # Veritabanına bağlanma işlemleri...
 
-def hesapla_cevre(uzunluk, genislik=None, kenar=None):
-    if kenar is not None:
-        return 4 * kenar  # kare çevresi
-    elif uzunluk is not None and genislik is not None:
-        return 2 * (uzunluk + genislik)  # dikdörtgen çevresi
-    else:
-        raise ValueError("Geçersiz argümanlar")
+    def baglantiyi_kapat(self):
+        # Bağlantıyı kapatma işlemleri...
+
+class VeriIslemleri:
+    def veri_al(self, sorgu):
+        # Veri alım işlemleri...
+
+    def veri_guncelle(self, sorgu, veri):
+        # Veri güncelleme işlemleri...
+
 
 ```
