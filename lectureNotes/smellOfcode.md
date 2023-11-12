@@ -24,3 +24,23 @@ def hesapla_kare_cevre(kenar):
 ```
 
 DRY prensibine uygun olarak, bu tekrarı kaldıralım ve ortak bir fonksiyon kullanalım: 
+
+
+```python
+def hesapla_alan(uzunluk, genislik=None, kenar=None):
+    if kenar is not None:
+        return kenar * kenar  # kare alanı
+    elif uzunluk is not None and genislik is not None:
+        return uzunluk * genislik  # dikdörtgen alanı
+    else:
+        raise ValueError("Geçersiz argümanlar")
+
+def hesapla_cevre(uzunluk, genislik=None, kenar=None):
+    if kenar is not None:
+        return 4 * kenar  # kare çevresi
+    elif uzunluk is not None and genislik is not None:
+        return 2 * (uzunluk + genislik)  # dikdörtgen çevresi
+    else:
+        raise ValueError("Geçersiz argümanlar")
+
+```
