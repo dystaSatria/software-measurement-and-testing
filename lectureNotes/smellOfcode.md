@@ -50,21 +50,19 @@ def hesapla_cevre(uzunluk, genislik=None, kenar=None):
 Önce tekrarlanan bir kod örneği: 
 
 ```python
-def hesapla_dikdortgen_alan(uzunluk, genislik):
-    alan = uzunluk * genislik
-    return alan
+class VeritabaniYonetimi:
+    def baglan(self):
+        # Veritabanına bağlanma işlemleri...
 
-def hesapla_dikdortgen_cevre(uzunluk, genislik):
-    cevre = 2 * (uzunluk + genislik)
-    return cevre
+    def veri_al(self, sorgu):
+        # Veri alım işlemleri...
 
-def hesapla_kare_alan(kenar):
-    alan = kenar * kenar
-    return alan
+    def veri_guncelle(self, sorgu, veri):
+        # Veri güncelleme işlemleri...
 
-def hesapla_kare_cevre(kenar):
-    cevre = 4 * kenar
-    return cevre
+    def baglantiyi_kapat(self):
+        # Bağlantıyı kapatma işlemleri...
+
 ```
 
 Değiştirilecek kullanalım: 
