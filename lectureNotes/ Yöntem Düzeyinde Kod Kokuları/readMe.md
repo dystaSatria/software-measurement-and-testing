@@ -28,5 +28,5 @@ def example_function():
 
 * Kara koyun (Black Sheep)
 
-  ![](https://medium.com/thinkster-io/code-smell-black-sheep-method-9fc4a952cee6)
+  ![Tekan Untuk Melihat lebih jelas](https://medium.com/thinkster-io/code-smell-black-sheep-method-9fc4a952cee6)
 
