@@ -95,3 +95,26 @@ Dalam contoh ini, fungsi `penjumlahan_1` menghitung jumlah angka dari 1 hingga n
 Di sisi lain, fungsi `penjumlahan_2` menghitung jumlah angka dari 1 hingga n dengan menggunakan rumus Gauss, yaitu (n * (n + 1)) // 2. Pendekatan ini lebih efisien dalam hal kinerja dan merupakan contoh dari "oddball" atau solusi yang berbeda untuk masalah yang sama. 
 
 Kedua fungsi ini memberikan hasil yang sama namun menggunakan pendekatan yang berbeda. "Oddball" solution sering kali merupakan pendekatan yang tak terduga tetapi efektif untuk menyelesaikan masalah.
+
+
+* Girinti Kaybı
+
+"Girinti hilang" tidak secara umum digunakan dalam konteks pemrograman. Namun, "girinti" dalam konteks pemrograman biasanya mengacu pada tata letak blok kode untuk meningkatkan kejelasan kode. Girinti biasanya digunakan untuk menunjukkan blok kode dalam bahasa pemrograman dan menandai awal dan akhir dari suatu blok.
+
+Contoh kode Python di bawah ini adalah ilustrasi dari masalah "girinti hilang":
+
+```python
+def kontrol(a, b):
+if a > 0:
+print("a positif")
+else:
+print("a negatif")
+if b > 0:
+print("b positif")
+else:
+print("b negatif")
+```
+
+Dalam contoh di atas, terdapat dua pernyataan if-else di dalam fungsi. Namun, tata letak girintinya tidak konsisten. Kesalahan girinti terjadi ketika ada ketidaksesuaian tingkat girinti di antara awal dan akhir blok. Pada kode di atas, pernyataan "if a > 0:" dan blok yang mengikutinya tidak memiliki girinti yang tepat. Hal ini dapat menyebabkan Python menghasilkan kesalahan girinti saat menjalankan kode tersebut.
+
+Untuk mengatasi kesalahan girinti, penting untuk memiliki girinti yang konsisten di antara blok-blok kode dalam Python. Dengan memperbaiki tata letak girinti, kode dapat dibaca dengan lebih mudah dan juga dapat dijalankan dengan benar.
