@@ -14,9 +14,8 @@ def example_function():
 # Kode yang mengandung variabel tak terpakai (dead code)
 ```
 
-* Ölü Kod (Dead Code):
-Kode yang tidak pernah diakses atau dieksekusi dalam aplikasi. Contohnya:
-
+* Uzun Parametre Listesi (Long Parameter List):
+Fungsi atau metode dengan daftar parameter yang panjang. Contohnya:
 ```python
 
 def example_function():
