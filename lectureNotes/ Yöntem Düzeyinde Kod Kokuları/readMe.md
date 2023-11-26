@@ -63,5 +63,35 @@ def example_function():
         # Menghasilkan laporan
         pass
 
+
 ```
 
+*  Tuhah çözmesi "Oddball" 
+"Oddball" solution adalah ketika sebuah masalah dipecahkan dengan cara yang tidak lazim atau berbeda dari solusi yang umumnya diterima. Berikut ini adalah contoh kode Python yang mengandung dua metode untuk memecahkan masalah matematika sederhana. Yang pertama mewakili solusi yang umum dan diharapkan, sedangkan yang kedua merupakan contoh "oddball" atau pendekatan yang berbeda:
+
+```python
+# Solusi Normal / Umum
+def penjumlahan_1(n):
+    # Menjumlahkan angka dari 1 hingga n
+    total = 0
+    for i in range(1, n + 1):
+        total += i
+    return total
+
+# Solusi "Oddball"
+def penjumlahan_2(n):
+    # Menggunakan rumus Gauss untuk menjumlahkan angka dari 1 hingga n
+    total = (n * (n + 1)) // 2
+    return total
+
+# Penggunaan kedua fungsi
+n = 100
+print("Jumlah (Fungsi 1):", penjumlahan_1(n))
+print("Jumlah (Fungsi 2):", penjumlahan_2(n))
+```
+
+Dalam contoh ini, fungsi `penjumlahan_1` menghitung jumlah angka dari 1 hingga n dengan menggunakan perulangan. Ini adalah metode yang umum dan dikenal luas untuk menyelesaikan masalah ini.
+
+Di sisi lain, fungsi `penjumlahan_2` menghitung jumlah angka dari 1 hingga n dengan menggunakan rumus Gauss, yaitu (n * (n + 1)) // 2. Pendekatan ini lebih efisien dalam hal kinerja dan merupakan contoh dari "oddball" atau solusi yang berbeda untuk masalah yang sama. 
+
+Kedua fungsi ini memberikan hasil yang sama namun menggunakan pendekatan yang berbeda. "Oddball" solution sering kali merupakan pendekatan yang tak terduga tetapi efektif untuk menyelesaikan masalah.
