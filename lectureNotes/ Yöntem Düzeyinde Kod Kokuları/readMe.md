@@ -26,3 +26,7 @@ def example_function():
 # Kode yang mengandung variabel tak terpakai (dead code)
 ```
 
+* Kara koyun (Black Sheep)
+
+  ![](https://medium.com/thinkster-io/code-smell-black-sheep-method-9fc4a952cee6)
+
