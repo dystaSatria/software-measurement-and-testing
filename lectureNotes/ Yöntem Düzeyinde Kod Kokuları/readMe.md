@@ -1,7 +1,7 @@
 #  Yöntem Düzeyinde Kod Kokuları
 
 
-Ölü Kod (Dead Code):
+* Ölü Kod (Dead Code):
 Kode yang tidak pernah diakses atau dieksekusi dalam aplikasi. Contohnya:
 
 ```python
