@@ -1,0 +1,2 @@
+#  Yöntem Düzeyinde Kod Kokuları
+
