@@ -2,3 +2,6 @@
 SDLC Process
 * Raw materials requirement
 * Planning
+* Designing
+* Construction
+* Testing
