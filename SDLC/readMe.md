@@ -20,4 +20,4 @@
 
 
 ### Waterfall Model
-![nama]()
+![nama]("https://github.com/dystaSatria/software-measurement-and-testing/blob/main/SDLC/waterfall.png")
