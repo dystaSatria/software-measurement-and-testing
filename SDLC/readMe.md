@@ -16,3 +16,8 @@
 * Spiral Model
 * V-Model
 * Big Bang Model
+
+
+
+### Waterfall Model
+![nama]()
