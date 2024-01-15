@@ -10,8 +10,9 @@ DIT -> Choose the longest way to main section (at the top / at the bottom)
 
 Example : 
  * Taşıt section DIT score : 0.
+ * Taşıt section DIT score : 0.
  * Kara Taşıtı section DIT score : 1.
  * Deniz Taşıtı section DIT score : 1.
  * Tank section DIT score : 2.
 
-___ _____ ___
+___ _____ ___ ____
