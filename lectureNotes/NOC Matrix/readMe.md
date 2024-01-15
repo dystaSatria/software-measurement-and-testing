@@ -55,6 +55,8 @@ public class EthernetRouter extends Router {
 
 ## Recommendations
 
+* Regularly review NOC values to ensure a balanced and maintainable class hierarchy.
+* Consider refactoring if NOC is excessively high, potentially indicating a need for a more streamlined design.
 
 
 - - - - - -
