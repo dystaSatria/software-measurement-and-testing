@@ -22,3 +22,8 @@ _ _ _ _ _ _
 
 _ _ _ _ _ _
 
+## Usage in NOC Project
+
+In our NOC project, monitoring NOC values can assist in assessing the design structure of our components. It can guide decisions on refactoring, optimizing, or restructuring the class hierarchy for improved maintainability and understanding.
+
+- - - - - -
