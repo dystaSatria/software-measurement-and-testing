@@ -32,7 +32,7 @@ In our NOC project, monitoring NOC values can assist in assessing the design str
 
 * Suppose we have a class Router in our NOC project with NOC equal to 5. It means there are 5 immediate subclasses extending the Router class.
 
-```python
+```c#
 // Kelas dasar Router
 public class Router {
   // Implementasi
