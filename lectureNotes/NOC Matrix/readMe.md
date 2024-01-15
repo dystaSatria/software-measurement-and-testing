@@ -38,18 +38,6 @@ public class Router {
   // Implementasi
 }
 
-// Kelas turunan WirelessRouter yang merupakan subclass dari Router
-public class WirelessRouter extends Router {
-  // Implementasi khusus untuk WirelessRouter
-}
-
-// Kelas turunan EthernetRouter yang merupakan subclass dari Router
-public class EthernetRouter extends Router {
-  // Implementasi khusus untuk EthernetRouter
-}
-
-
-
 public class Subclass1 extends Router {
   // Implementasi khusus untuk Subclass1
 }
