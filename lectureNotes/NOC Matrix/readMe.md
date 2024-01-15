@@ -61,7 +61,7 @@ public class Subclass5 extends Router {
 
 ```
 
-* [gambar](https://github.com/dystaSatria/software-measurement-and-testing/blob/main/lectureNotes/NOC%20Matrix/Screenshot%202024-01-15%20at%2022.17.43.png)
+* ![gambar](https://github.com/dystaSatria/software-measurement-and-testing/blob/main/lectureNotes/NOC%20Matrix/Screenshot%202024-01-15%20at%2022.17.43.png)
 
 - - - - - -
 
