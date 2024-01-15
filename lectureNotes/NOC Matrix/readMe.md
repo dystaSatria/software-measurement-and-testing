@@ -27,3 +27,34 @@ _ _ _ _ _ _
 In our NOC project, monitoring NOC values can assist in assessing the design structure of our components. It can guide decisions on refactoring, optimizing, or restructuring the class hierarchy for improved maintainability and understanding.
 
 - - - - - -
+
+## Example Scenario
+
+* Suppose we have a class Router in our NOC project with NOC equal to 5. It means there are 5 immediate subclasses extending the Router class.
+
+```python
+
+public class Router {
+  // Implementation
+}
+
+public class WirelessRouter extends Router {
+  // Implementation
+}
+
+public class EthernetRouter extends Router {
+  // Implementation
+}
+
+// ... three more subclasses
+
+
+```
+
+- - - - - -
+
+## Recommendations
+
+
+
+- - - - - -
