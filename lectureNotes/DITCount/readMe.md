@@ -13,3 +13,5 @@ Example :
  * Kara Taşıtı section DIT score : 1.
  * Deniz Taşıtı section DIT score : 1.
  * Tank section DIT score : 2.
+
+___ _____ ___
