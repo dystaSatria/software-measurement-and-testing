@@ -33,20 +33,42 @@ In our NOC project, monitoring NOC values can assist in assessing the design str
 * Suppose we have a class Router in our NOC project with NOC equal to 5. It means there are 5 immediate subclasses extending the Router class.
 
 ```python
-
+// Kelas dasar Router
 public class Router {
-  // Implementation
+  // Implementasi
 }
 
+// Kelas turunan WirelessRouter yang merupakan subclass dari Router
 public class WirelessRouter extends Router {
-  // Implementation
+  // Implementasi khusus untuk WirelessRouter
 }
 
+// Kelas turunan EthernetRouter yang merupakan subclass dari Router
 public class EthernetRouter extends Router {
-  // Implementation
+  // Implementasi khusus untuk EthernetRouter
 }
 
-// ... three more subclasses
+
+
+public class Subclass1 extends Router {
+  // Implementasi khusus untuk Subclass1
+}
+
+public class Subclass2 extends Router {
+  // Implementasi khusus untuk Subclass2
+}
+
+public class Subclass3 extends Router {
+  // Implementasi khusus untuk Subclass3
+}
+
+public class Subclass4 extends Router {
+  // Implementasi khusus untuk Subclass4
+}
+
+public class Subclass5 extends Router {
+  // Implementasi khusus untuk Subclass5
+}
 
 
 ```
