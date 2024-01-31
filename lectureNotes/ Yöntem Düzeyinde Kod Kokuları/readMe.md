@@ -32,8 +32,7 @@ Example:
 Copy code
 ```
 
-# Example missing. In practice, this would be a method with a long list of parameters.
-Black Sheep
+### Black Sheep
 Black Sheep refers to a method that is significantly different from others in terms of its behavior or dependencies. More Information
 
 ```python
