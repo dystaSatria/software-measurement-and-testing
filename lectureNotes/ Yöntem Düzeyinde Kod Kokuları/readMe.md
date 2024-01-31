@@ -100,8 +100,8 @@ Indentation Loss refers to inconsistencies in the indentation of code blocks, le
 
 Example:
 
-python
-Copy code
+```python
+
 def control(a, b):
     if a > 0:
         print("a is positive")
@@ -111,4 +111,4 @@ def control(a, b):
         print("b is positive")
     else:
         print("b is negative")
-# The indentation is inconsistent, leading to possible confusion.
+```
