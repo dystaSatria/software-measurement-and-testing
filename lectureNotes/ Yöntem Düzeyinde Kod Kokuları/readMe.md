@@ -70,3 +70,45 @@ class Processor:
         pass
 
 ```
+
+### Oddball Solution
+An "Oddball" solution is an unconventional approach to solving a problem, differing from the standard or accepted solutions.
+
+Example:
+
+```python
+Copy code
+def addition_1(n):
+    # Summing numbers from 1 to n using a loop
+    total = 0
+    for i in range(1, n + 1):
+        total += i
+    return total
+
+def addition_2(n):
+    # Summing numbers using Gauss's formula
+    total = (n * (n + 1)) // 2
+    return total
+
+n = 100
+print("Sum (Function 1):", addition_1(n))
+print("Sum (Function 2):", addition_2(n))
+```
+
+### Indentation Loss
+Indentation Loss refers to inconsistencies in the indentation of code blocks, leading to reduced readability and potential errors.
+
+Example:
+
+python
+Copy code
+def control(a, b):
+    if a > 0:
+        print("a is positive")
+    else:
+        print("a is negative")
+    if b > 0:
+        print("b is positive")
+    else:
+        print("b is negative")
+# The indentation is inconsistent, leading to possible confusion.
