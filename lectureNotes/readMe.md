@@ -2,8 +2,7 @@
 
 1. [Software Scenario Forms](#software-scenario-forms)
 2. [Software Development Types](#software-development-types)
-3. [Additional Chapters](#additional-chapters)
-   1. [Chapter 1](#chapter-1)
+   1. Waterfall Model
    2. [Chapter 2](#chapter-2)
    3. [Chapter 3](#chapter-3)
    4. [Chapter 4](#chapter-4)
@@ -17,33 +16,7 @@ In the realm of software development, scenario forms are used to envision and pl
 ## Software Development Types
 Software development can be categorized into various types, each with its own methodologies, techniques, and tools. Understanding these types allows developers to choose the most appropriate one for their project.
 
-### Chapter 1
 
-### Chapter 2
-
-### Chapter 3
-
-### Chapter 4
-
-## Additional Chapters
-
-### Chapter 1
-Details about Chapter 1...
-
-### Chapter 2
-Details about Chapter 2...
-
-### Chapter 3
-Details about Chapter 3...
-
-### Chapter 4
-Details about Chapter 4...
-
-### Chapter 5
-Details about Chapter 5...
-
-### Chapter 6
-Details about Chapter 6...
 
 ## Conclusion
 Final thoughts and conclusions...
