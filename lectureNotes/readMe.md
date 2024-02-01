@@ -3,9 +3,9 @@
 1. [Software Scenario Forms](#software-scenario-forms)
 2. [Software Development Types](#software-development-types)
    1. Waterfall Model
-   2. [Chapter 2](#chapter-2)
-   3. [Chapter 3](#chapter-3)
-   4. [Chapter 4](#chapter-4)
+   2. Inceremental Process Model
+   3. V Model
+   4. Agile Model
    5. [Chapter 5](#chapter-5)
    6. [Chapter 6](#chapter-6)
 4. [Conclusion](#conclusion)
