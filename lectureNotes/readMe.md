@@ -7,7 +7,7 @@
    3. V Model
    4. Agile Model
    5. Spiral Model
-   6. [Chapter 6](#chapter-6)
+   6. Rapid Application Development
 4. [Conclusion](#conclusion)
 
 ## Software Scenario Forms
